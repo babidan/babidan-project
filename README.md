@@ -1,4 +1,4 @@
-# babidan-project
-a tutorial class on how to use repository 
+# Babidan's Project
+This is a tutorial class on how to use github repositories and document in markdown. 
 
-## introduction
+## Introduction to markdown
